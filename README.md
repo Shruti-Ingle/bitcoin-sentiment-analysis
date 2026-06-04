@@ -1,8 +1,9 @@
-# Bitcoin Sentiment Analysis
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shruti-Ingle/bitcoin-sentiment-analysis/blob/main/bitcoin_sentiment_analysis.ipynb)
+<a href="https://colab.research.google.com/github/Shruti-Ingle/bitcoin-sentiment-analysis/blob/main/bitcoin_sentiment_analysis.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width="250"/>
+</a>
 
 Analyze Bitcoin sentiment using NLP and machine learning techniques.
+[Do not run any code]
 # 📊 Bitcoin Market Sentiment × Trader Performance Analysis
 
 > Exploring how the Fear & Greed Index shapes trading behaviour and profitability on Hyperliquid.
